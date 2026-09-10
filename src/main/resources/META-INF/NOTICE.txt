@@ -1,0 +1,4 @@
+Burp-Local-Agent 0.2.2
+Passive local HTTP review adapted from the user's Arken-Local implementation.
+Includes Google Gson 2.14.0 (Copyright Google Inc.), licensed under Apache License 2.0.
+See LICENSE-gson.txt. Montoya API is supplied by Burp Suite and is not bundled.
